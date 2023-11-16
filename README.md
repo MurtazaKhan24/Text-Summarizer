@@ -1,6 +1,8 @@
 # Text-Summarizer
 
 ##  Models
+https://facebookresearch.github.io/nougat/
+
 https://vllm.readthedocs.io/en/latest/getting_started/quickstart.html
 
 https://huggingface.co/internlm/internlm-chat-7b-8k
