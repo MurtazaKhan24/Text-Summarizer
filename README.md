@@ -1,5 +1,8 @@
 # Text-Summarizer
 
+## Summarization tutorial
+https://huggingface.co/learn/nlp-course/chapter7/5?fw=pt
+
 ##  Models
 https://facebookresearch.github.io/nougat/
 
