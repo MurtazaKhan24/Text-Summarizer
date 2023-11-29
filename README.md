@@ -1,7 +1,9 @@
 # Text-Summarizer
 
 ## Presentation Example
-https://docs.google.com/presentation/d/13qQ0re8RkWqv2JJbVnj0yTbUQEZOcmSj4RrBpxYX874/edit#slide=id.g1021e5009f3_0_40
+https://docs.google.com/presentation/d/13qQ0re8RkWqv2JJbVnj0yTbUQEZOcmSj4RrBpxYX874/edit#slide=id.g1021e5009f3_0_40 
+
+https://docs.google.com/presentation/d/1ExgCQp0kDSo7LzxKacgzDz1VBNUQWQCPFtucBaU9SJE/edit#slide=id.ga073618e60_0_16
 
 ## Summarization tutorial
 https://huggingface.co/learn/nlp-course/chapter7/5?fw=pt
