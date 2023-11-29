@@ -2,6 +2,7 @@
 
 ## Summarization tutorial
 https://huggingface.co/learn/nlp-course/chapter7/5?fw=pt
+https://www.perplexity.ai/search/ledlargebooksum-fine-tune-7h2V8N2ESOS9HKS_4C6cUg?s=c
 
 ##  Models
 https://facebookresearch.github.io/nougat/
